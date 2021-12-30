@@ -1,0 +1,1 @@
+var numberOfSteps = (num)=>(!num)?0:(num===1)?1:(num%2)?1+numberOfSteps(num-1):1+numberOfSteps(num/2);
