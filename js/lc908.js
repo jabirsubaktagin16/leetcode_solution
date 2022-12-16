@@ -1,0 +1,1 @@
+var smallestRangeI = (nums, k)=> (Math.max(...nums) - Math.min(...nums))>2*k?(Math.max(...nums) - Math.min(...nums))-2*k:0;

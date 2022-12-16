@@ -1,0 +1,1 @@
+var maximum69Number  = (num)=> parseInt(num.toString().replace('6','9'));

@@ -1,0 +1,1 @@
+var convertToBase7 = (num)=>num.toString(7);

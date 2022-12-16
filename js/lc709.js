@@ -1,0 +1,1 @@
+var toLowerCase = (s)=> s.toLowerCase();

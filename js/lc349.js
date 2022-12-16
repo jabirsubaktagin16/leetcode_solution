@@ -1,0 +1,1 @@
+var intersection = (nums1, nums2)=> [...new Set(nums1.filter(x=>nums2.includes(x)))];
